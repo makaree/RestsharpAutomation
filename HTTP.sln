@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP", "HTTP\HTTP.csproj", "{C0323393-7120-4FCA-8B38-8CFED42B6B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRestSharp", "TestRestSharp\TestRestSharp.csproj", "{4DDB59F9-8140-4702-96EB-E30EB4F9FB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0323393-7120-4FCA-8B38-8CFED42B6B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0323393-7120-4FCA-8B38-8CFED42B6B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0323393-7120-4FCA-8B38-8CFED42B6B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0323393-7120-4FCA-8B38-8CFED42B6B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDB59F9-8140-4702-96EB-E30EB4F9FB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDB59F9-8140-4702-96EB-E30EB4F9FB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDB59F9-8140-4702-96EB-E30EB4F9FB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDB59F9-8140-4702-96EB-E30EB4F9FB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16E7637-6503-4EA4-8CD8-5039F96ADD1A}
+	EndGlobalSection
+EndGlobal
