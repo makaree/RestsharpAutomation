@@ -1,0 +1,21 @@
+bin
+obj
+sonarqube/
+
+styleCop.Cache
+report.xlsx
+model.xlsx
+
+*.suo
+*.pdb
+*.orig
+*.user
+*.userprefs
+
+ATFTool_log*.txt
+
+TestResults/
+packages/
+
+# Python temp
+*.pyc
